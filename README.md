@@ -24,7 +24,7 @@ El proyecto está dividido en **cliente (frontend)** y **servidor (backend)**.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/saludos-gratis.git
+git clone https://github.com/Alexis217/PersonalizedGreetings.git
 cd saludos-gratis
 ```
 
