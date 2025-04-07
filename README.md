@@ -25,7 +25,6 @@ El proyecto está dividido en **cliente (frontend)** y **servidor (backend)**.
 
 ```bash
 git clone https://github.com/Alexis217/PersonalizedGreetings.git
-cd saludos-gratis
 ```
 
 ### 2. Instalar dependencias del backend
